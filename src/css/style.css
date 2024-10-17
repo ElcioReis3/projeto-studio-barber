@@ -69,6 +69,7 @@ button:hover {
     margin: auto;
     display: flex;
     flex-direction: column;
+    padding: 0px 16px;
 }
 
 .section-content {
@@ -120,8 +121,6 @@ button:hover {
 }
 
 .white {
-    border-radius: 12px;
     background: rgba(167, 167, 167, 0.4);
     color: #FFF;
-    box-shadow: 1px 3px 12px #999;
 }

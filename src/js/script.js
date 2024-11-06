@@ -5,3 +5,5 @@ document.querySelector('.contato').addEventListener('click', (event) => {
 
     window.open(url, '_blank');
 })
+
+document.getElementById('meuVideo').playbackRate = 0.5;
